@@ -4,7 +4,7 @@ import java.util.Scanner;
  * Created by Millochka on 8/29/16.
  */
 public class Java {
-
+// This is a test comment. I'm practicing with Git!
 
     public static  void printHashtag(String tweet){
         Scanner scanner = new Scanner(tweet);
